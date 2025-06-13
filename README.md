@@ -28,7 +28,8 @@ I’m currently developing a **recommendation system** for [Cedro Adventures](ht
 
 - **Languages**: Python, JavaScript  
 - **Frontend**: React, HTML5, CSS3  
-- **Backend**: Django, GraphQL, REST APIs  
+- **Backend**: Django, GraphQL, REST APIs
+- **Databases**:	PostgreSQL, MongoDB, SQLite
 - **DevOps & Deployment**: Docker, Linux (Ubuntu/Debian), VPS hosting, Nginx  
 - **ML Frameworks**: TensorFlow, Scikit-learn, Pandas, NumPy
 - **ORMs & Tools**:	Prisma, Mongoose, Django ORM
