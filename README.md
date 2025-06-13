@@ -12,9 +12,9 @@ I build things that work and make a difference.
 
 These projects reflect my growing skills in Machine Learning, many inspired by DigitalOcean tutorials and shaped by real-world curiosity:
 
-- 🔬 [`breast_cancer_classifier`](https://github.com/Justus-Kimutai/breast_cancer_classifier) – A model trained to classify malignant and benign breast tumors.
-- ✍️ [`handwritten-digit-ai`](https://github.com/Justus-Kimutai/handwritten-digit-ai) – MNIST-powered digit recognition neural network.
-- 🏘️ [`california-housing-price-predictor`](https://github.com/Justus-Kimutai/california-housing-price-predictor) – Predicts housing prices based on California census data.
+- 🔬 [`breast_cancer_classifier`](https://github.com/justkimtai/breast_cancer_classifier) – A model trained to classify malignant and benign breast tumors.
+- ✍️ [`handwritten-digit-ai`](https://github.com/justkimtai/handwritten-digit-ai) – MNIST-powered digit recognition neural network.
+- 🏘️ [`california-housing-price-predictor`](https://github.com/justkimtai/california-housing-price-predictor.git) – Predicts housing prices based on California census data.
 
 I’m currently developing a **recommendation system** for [Cedro Adventures](https://www.cedroadventures.com), where I work full-time as a Software Developer, to help travelers discover destinations they’ll love.
 
