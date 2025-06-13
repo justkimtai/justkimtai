@@ -4,7 +4,7 @@
 📍 Based in Machakos, Kenya
 
 ## 🚀 About Me
-I'm a deeply curious, passionate and disciplined techie with a deep love for intelligent system and user-centered web & Android experiences. My journey into Machine Learning has been a beautiful one and very practical, founded on my deep love for math and science. I have an engineering background in manufacturing and industrial engineering from Moi University, Kenya. I am an avid consumer of scientific and engineering articles, African literature, religious and historical texts. Aside from that, I misnister God's true word in church at Miuwongoni Center, in Machakos, alongside other God's servants.
+I'm a deeply curious, passionate and disciplined techie with a deep love for intelligent system and user-centered web & Android experiences. My journey into Machine Learning has been a beautiful one and very practical, founded on my deep love for math and science. I have an engineering background in manufacturing and industrial engineering from Moi University, Kenya. I am an avid consumer of scientific and engineering articles, African literature, religious and historical texts. Aside from that, I minister God's true word in church at Miuwongoni Center, in Machakos, alongside other God's servants.
 
 I build things that work — and make a difference.
 
