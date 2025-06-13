@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a deeply curious, passionate and disciplined techie with a deep love for intelligent system and user-centered web & Android experiences. My journey into Machine Learning has been a beautiful one and very practical, founded on my deep love for math and science. Academically, I have a strong engineering background in manufacturing and industrial engineering from Moi University, Kenya.
 
-I build things that work — and make a difference.
+I build things that work and make a difference.
 
 ## 🧠 ML/AI Projects
 
@@ -39,7 +39,7 @@ I’m currently developing a **recommendation system** for [Cedro Adventures](ht
 - 📚 Reading scientific & engineering literature, African classics, historical and religious texts  
 - 🧠 Exploring the intersection of logic, faith, and computation  
 - 🗣️ Ministering God’s Word at **Miuwongoni Center**, Machakos  
-- 🔄 Learning constantly — because I believe I am an **eternal student**.
+- 🔄 Learning constantly, because I believe I am an **eternal student**.
 
 ## 📬 Let’s Connect
 
@@ -47,4 +47,4 @@ I’m currently developing a **recommendation system** for [Cedro Adventures](ht
 - 🌐 [Portfolio](https://justuskimtai.com)  
 - 💬 [Blog](https://justuskimtai/blogs)
 
-> _“Curiosity didn’t kill me — it launched me.”_ 🚀
+> _“Curiosity didn’t kill me. It launched me.”_ 🚀
