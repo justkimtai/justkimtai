@@ -37,10 +37,10 @@ I’m currently developing a **recommendation system** for [Cedro Adventures](ht
 
 ## What Fuels Me
 
-- 📚 Reading scientific & engineering literature, African classics, historical and religious texts  
-- 🧠 Exploring the intersection of logic, faith, and computation  
-- 🗣️ Ministering God’s Word at **Miuwongoni Center**, Machakos  
-- 🔄 Learning constantly, because I believe I am an **eternal student**.
+- Reading scientific & engineering literature, African classics, historical and religious texts  
+- Exploring the intersection of logic, faith, and computation  
+- Ministering God’s Word at **Miuwongoni Center**, Machakos  
+- Learning constantly, because I believe I am an **eternal student**.
 
 ## Let’s Connect
 
