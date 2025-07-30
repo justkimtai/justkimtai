@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Justus Kimtai
 
-**Machine Learning/AI Engineer | Full-Stack Developer (Web & Android) | Linux Lover**  
+**Full-Stack Developer (Web & Android) | Linux Lover**  
 Based in Machakos, Kenya
 
 ## About Me
